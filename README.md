@@ -1,6 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-# My Fist Commit Story
+# My First Commit Story
 Once upon a time there was a new developer.  They wanted to learn how to use github.  So they wrote a story about how to make changes to codes. And then share with github.
 
 # Project Summary
